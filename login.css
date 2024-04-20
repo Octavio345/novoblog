@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: red;
+}
+header{
+    background-color: black;
+    color: red;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

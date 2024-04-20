@@ -1,0 +1,17 @@
+    body{
+    background-color: black;
+    color: red;
+}
+header{
+    background-color: black;
+    color: red;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+    
